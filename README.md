@@ -1,2 +1,12 @@
-https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white
 # AncientAmogusMod
+Github Repository for the 1.12.2 Minecraft Among Us mod.
+
+## Wiki
+yes
+
+## Found Issues / Bugs?
+I refuse to fix them.
+
+## Have suggestions?
+I won't add anything new.
+
