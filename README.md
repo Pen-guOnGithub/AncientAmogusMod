@@ -1,7 +1,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/stefanobottero)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-[![Curseforge](https://cf.way2muchnoise.eu/title/jei.svg)](https://curseforge.com/minecraft/mc-mods/)
+[![Curseforge](https://cf.way2muchnoise.eu/title/jei.svg)](https://curseforge.com/minecraft/mc-mods)
 # AncientAmogusMod (aa)
 Github Repository for the 1.12.2 Minecraft Among Us mod.
 
